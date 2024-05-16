@@ -8,7 +8,7 @@
     <test name="MLWALLET">
         <parameter name="type" value="mobile">
             <classes>
-               <class name="kpx.actual.WalletService.WalletService"> </class>
+               <class name="testCases.kpx.WalletService"> </class>
 
             </classes>
         </parameter>
